@@ -1,6 +1,8 @@
 ### Hi! I'm Trdthg 😋
 
-_a randomly generated name_
+_a randomly generated name，you can call it as **t**~~hi~~**rd** **th**~~in~~**g**_
+
+> thanks to [a1393323447](https://github.com/a1393323447) who give this idea
 
 ### I am focusing on
 
