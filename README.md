@@ -4,8 +4,8 @@ _a randomly generated name.
 
 ### works
 
-- [bilibili Chinese translated Videos](https://space.bilibili.com/110777624)
-- [Chinese Translation Articles](https://github.com/search?q=repo%3Arustlang-cn%2FRustt+assignee%3Atrdthg+state%3Aclosed&type=Issues&ref=advsearch)
+- [Bilibili Chinese Translated Rust Videos](https://space.bilibili.com/110777624)
+- Chinese Translation Articles(repo was deleted, because the organizer of the translation group is a incredible bad person)
 
 <p>
 <img width = "762" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trdthg&theme=monokai"/>
