@@ -5,7 +5,7 @@ _a randomly generated name.
 ### works
 
 - [Bilibili Chinese Translated Rust Videos](https://space.bilibili.com/110777624)
-- Chinese Translation Articles(repo was deleted, because the organizer of the translation group is a incredible bad person)
+- Chinese Translation Articles(repo unable to access anymore)
 
 <p>
 <img width = "762" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trdthg&theme=monokai"/>
