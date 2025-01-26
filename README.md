@@ -1,6 +1,6 @@
 ### Hi! I'm Trdthg 😋
 
-_a randomly generated name.
+_a randomly generated name._
 
 ### works
 
