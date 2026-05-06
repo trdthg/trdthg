@@ -5,7 +5,7 @@ _a randomly typed name._
 ### works
 
 - [Bilibili Chinese Translated Rust Videos](https://space.bilibili.com/110777624)
-- Chinese Translation Articles(repo unable to access anymore)
+- [Chinese Translated Rust Articles](https://github.com/trdthg/trdthg.github.io/tree/main/bak/src/trans)
 
 <p>
 <img width = "762" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trdthg&theme=monokai"/>
